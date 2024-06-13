@@ -18,6 +18,10 @@ mono_crash.*
 
 bin/Debug/ConversieDiacritice2.exe.config
 obj/
+App.config
+Properties/AssemblyInfo.cs
+ConversieDiacritice2.sln
+ConversieDiacritice2.csproj
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
