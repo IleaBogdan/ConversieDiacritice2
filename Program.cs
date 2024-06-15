@@ -31,6 +31,7 @@ namespace ConversieDiacritice2
             using (StreamWriter sw = new StreamWriter(File.Open(file_name,
                 FileMode.Create), Encoding.UTF8))
             {
+                //sw.WriteLine("test completat");
                 // pt fiecare string din line facem replaceu de diacritice
                 foreach (string line in lines)
                 {
